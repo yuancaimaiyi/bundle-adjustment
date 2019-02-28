@@ -1,0 +1,3 @@
+/home/yuancaimaiyi/图片/cvsba_simple_test/build/CMakeFiles/edit_cache.dir
+/home/yuancaimaiyi/图片/cvsba_simple_test/build/CMakeFiles/rebuild_cache.dir
+/home/yuancaimaiyi/图片/cvsba_simple_test/build/CMakeFiles/cvsba_simple_test.dir
